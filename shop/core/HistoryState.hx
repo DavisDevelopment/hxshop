@@ -1,10 +1,10 @@
-package sa.core;
+package shop.core;
 
 import tannus.ds.*;
 import tannus.io.*;
 import tannus.html.*;
 
-import sa.Globals.*;
+import shop.Globals.*;
 
 import haxe.extern.EitherType;
 import haxe.Serializer;

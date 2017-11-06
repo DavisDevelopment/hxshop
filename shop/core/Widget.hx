@@ -1,4 +1,4 @@
-package sa.core;
+package shop.core;
 
 import tannus.ds.*;
 import tannus.io.*;

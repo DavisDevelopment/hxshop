@@ -1,11 +1,11 @@
-package sa.core;
+package shop.core;
 
 import tannus.ds.*;
 import tannus.io.*;
 import tannus.html.*;
 
-import sa.Globals.*;
-import sa.storage.*;
+import shop.Globals.*;
+import shop.storage.*;
 
 using Slambda;
 using tannus.ds.ArrayTools;

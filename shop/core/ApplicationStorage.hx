@@ -1,13 +1,13 @@
-package sa.core;
+package shop.core;
 
 import tannus.ds.*;
 import tannus.io.*;
 import tannus.html.*;
 import tannus.async.*;
 
-import sa.Globals.*;
-import sa.storage.*;
-import sa.storage.StorageArea;
+import shop.Globals.*;
+import shop.storage.*;
+import shop.storage.StorageArea;
 
 import edis.storage.kv.Storage;
 

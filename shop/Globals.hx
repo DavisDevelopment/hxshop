@@ -1,4 +1,4 @@
-package sa;
+package shop;
 
 import tannus.ds.*;
 import tannus.io.*;
@@ -6,7 +6,7 @@ import tannus.html.*;
 import tannus.http.*;
 import tannus.async.*;
 
-import sa.core.CordovaPlatform;
+import shop.core.CordovaPlatform;
 
 using Slambda;
 using tannus.ds.ArrayTools;

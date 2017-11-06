@@ -1,4 +1,4 @@
-package sa.core;
+package shop.core;
 
 import tannus.ds.*;
 import tannus.io.*;
@@ -107,6 +107,6 @@ class Page extends Widget {
     public var footer : PageFooter;
 
     @:native('isAnalVirgin')
-    @:allow( sa.core.Application )
+    @:allow( shop.core.Application )
     private var openedYet : Bool = false;
 }

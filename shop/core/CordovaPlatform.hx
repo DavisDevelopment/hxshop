@@ -1,4 +1,4 @@
-package sa.core;
+package shop.core;
 
 @:enum
 abstract CordovaPlatform (String) from String {
