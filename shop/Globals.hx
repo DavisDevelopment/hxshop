@@ -6,7 +6,8 @@ import tannus.html.*;
 import tannus.http.*;
 import tannus.async.*;
 
-import shop.core.CordovaPlatform;
+//import shop.core.CordovaPlatform;
+import edis.libs.cordova.CordovaPlatform;
 
 using Slambda;
 using tannus.ds.ArrayTools;
